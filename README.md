@@ -11,5 +11,5 @@ This project was (react router, firebase auth, mongodb) with [UranBike](https://
 - I use privateroute to get more access
 - I use slice methood to fetch 6 num data from fake data for home
 - Show user name at navbar from firebase database
-- In this website where i try to show UranTrip
--I Use Admin Authentication for admin level access 
+- In this website where i try to show UranBike
+- I Use Admin Authentication for admin level access 
